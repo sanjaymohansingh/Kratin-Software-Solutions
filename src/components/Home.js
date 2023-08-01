@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="container">
       <div>
-        <div className="name">Welcome to Be_Healthy</div>
+        <div className="name">Welcome to Elderly Care</div>
       </div>
       <div className="old_couple-image">
         <img
