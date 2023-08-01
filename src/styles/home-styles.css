@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 80px 10px 0px;
+}
+
+.name {
+  font-size: 40px;
+  color: #3a665c;
+  font-weight: bold;
+}
+
+.old_couple-image {
+  text-align: right;
+}
+
+.old_couple-image img {
+  width: 400px;
+  height: auto;
+}
+
+
+/* .old_couple-image {
+  float: right;
+  margin: 20px; 
+}
+.old_couple-image img {
+  width: 400px; 
+  height: auto;
+}
+.name {
+  font-size: 40px;
+  color: #3a665c;
+  margin: 80px 10px 0px;
+  font: 75px -apple-system;
+  float: left;
+} */

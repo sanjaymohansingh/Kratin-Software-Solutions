@@ -1,0 +1,26 @@
+.recipes-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px ;
+  padding: 10px;
+}
+
+ 
+.video-item {
+    margin: 10px;
+    border:  2px solid #116d6e;
+  }
+  
+  .see-all {
+    cursor: pointer;
+    text-decoration: underline;
+    padding-top: 10%;
+    color: blue;
+  }
+
+.video-container {
+    display: flex;
+    flex-wrap: wrap;
+  }

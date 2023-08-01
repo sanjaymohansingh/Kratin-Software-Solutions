@@ -1,0 +1,44 @@
+.old_couple {
+    box-shadow: 0 2px 4px rgba(253, 251, 251, 0.2); /* Add a shadow to the image */
+    margin: 0px 90px 5px;
+    width: 120px;
+  }
+
+  .profileImage{
+    box-shadow: 0 2px 4px rgba(253, 251, 251, 0.2); 
+    width: 50px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  form{
+    float: right;
+    padding-right: 150px;
+  }
+  .form-control{
+    padding: 5px;
+  }
+
+  .label1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: #3a665c;
+    margin-top: 4px;
+    border: none; /* Remove border */
+  background-color: transparent; /* Remove background color */
+  }
+  .form-control + .form-control {
+    margin-top: 10px; /* Adjust the top margin to add space between input fields */
+  }
+
+  .col-md-4{
+   padding: 30px;
+  }
+  .forget-password {
+  margin-top: 20px;
+  margin-left: 50px;
+  }

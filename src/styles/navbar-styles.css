@@ -1,0 +1,49 @@
+/* Remove the margin and padding from the body and the Navbar */
+ body, .navbar-custom {
+  margin: 0;
+  padding:0 ;
+}
+
+/* Set the background color of the Navbar */
+.navbar-custom {
+  background-color: #2780e3;
+  box-shadow: 5px 10px 10px #b1adad;
+ 
+}
+
+.navAccountResponsive {
+  display: flex; /* Use flexbox to arrange icon and text in a row */
+  align-items: center; /* Vertically align the icon and text in the center */
+}
+
+.navAccountResponsive i {
+  margin-right: 5px; /* Add some space between the icon and text */
+}
+
+/* Remove the margin from the login text to align it with the icon */
+.navAccountText {
+  margin: 0;
+}
+
+.navbar-brand {
+  padding-left: 25px;
+  padding-right: 25px;
+} 
+
+.loginButton {
+  background-color: #00008B;
+  color: #ffffff;
+  padding: 8px 16px;
+  margin: 4px 0px 4px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.loginButton:hover {
+  background-color: #499d9e;
+  color:rgb(190, 183, 142)f;
+}
+
+.loginButton i {
+  margin-right: 5px;
+}

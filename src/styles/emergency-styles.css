@@ -1,0 +1,32 @@
+.contact-box{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px ;
+    padding: 10px;
+   
+}
+button{
+    padding: 8px;
+    color: black;
+    background: #116d6e;
+    border: 1px solid black;
+    margin: 6px;
+}
+
+#name, label, .phoneInputContainer{
+    padding: 5px;
+    color: black;
+    background: #ececf1;
+    border: 2px solid #116d6e;
+   
+    margin: 6px;
+}
+button:hover
+{
+    cursor: pointer;
+    background: #278586;
+    box-shadow: 0 0 30px #278586;
+}

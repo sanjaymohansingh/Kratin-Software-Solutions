@@ -1,0 +1,71 @@
+.my-section {
+  background-color: #373a3c;
+  color: #ececf1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-links a {
+  color: #ececf1;
+}
+
+.footer-links {
+  background-color: #373a3c;
+  color: #ececf1;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.footer-links li {
+  margin-right: 20px;
+}
+
+.footer-links a {
+  color: #ececf1;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-info {
+  text-align: right;
+  background-color: #373a3c;
+  color: #ececf1;
+  float: right;
+  margin-left: 980px;
+}
+
+.text-center {
+  text-align: center;
+}
+.my-section a , container{
+  color: #ececf1;
+  
+}
+.span-container{
+  margin-left: 25px;
+}
+
+li{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.my-section-2{
+  background-color: #373a3c;
+  margin-top: -50px;
+  color: #ffffff;
+  padding: 12px;
+  font: 16px -apple-system ;
+  
+}
+ .container{
+  width: 100%;
+ }
+
+
